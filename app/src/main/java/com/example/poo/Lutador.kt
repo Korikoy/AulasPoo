@@ -80,6 +80,10 @@ class Lutador {
         return nome
     }
 
+    fun apanha(): Int {
+        return vit - derrotas
+    }
+
 
 
 
